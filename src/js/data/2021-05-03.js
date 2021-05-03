@@ -39,7 +39,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "G1 Butterscotch",
-    img: "6/69/FF_Butterscotch.jpg",
+    img: "b1h1HSY/FF-Butterscotch.jpg",
     opts: {
       gen: ["G1"],
       type: ["br"]
@@ -47,7 +47,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "G1 Blue Belle",
-    img: "0/09/FF_Blue_Belle.jpg",
+    img: "rGmCrYh/FF-Blue-Belle.jpg",
     opts: {
       gen: ["G1"],
       type: ["br"]
@@ -55,28 +55,28 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "G1 Minty",
-    img: "a/ac/FF_Minty.jpg",
+    img: "2gXjB2L/FF-Minty.jpg",
     opts: { 
       gen: ["G1"], 
       type: ["br"] }
   },
   {
     name: "G1 Snuzzle",
-    img: "9/97/FF_Snuzzle.jpg",
+    img: "kxcQ2dF/FF-Snuzzle.jpg",
     opts: { 
       gen: ["G1"], 
       type: ["br"] }
   },
   {
     name: "G1 Cotton Candy",
-    img: "0/06/FF_Cotton_Candy.jpg",
+    img: "xJYbKzv/FF-Cotton-Candy.jpg",
     opts: { 
       gen: ["G1"], 
       type: ["br"] }
   },
   {
     name: "G1 Blossom",
-    img: "c/ca/FF_Blossom.jpg",
+    img: "nQM7Ws3/FF-Blossom.jpg",
     opts: { 
       gen: ["G1"], 
       type: ["br"] }

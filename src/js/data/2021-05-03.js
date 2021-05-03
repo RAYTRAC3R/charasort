@@ -88,5 +88,33 @@ dataSet[dataSetVersion].characterData = [
     opts: { 
       gen: ["G1"], 
       type: ["br"] }
+  },
+  {
+    name: "G1 Applejack",
+    img: "RzxZ9BS/Collector-Pose-Applejack.jpg",
+    opts: { 
+      gen: ["G1"], 
+      type: ["br"] }
+  },
+  {
+    name: "G1 Bow Tie",
+    img: "gg5hqdL/1200px-Straight-Haired-Bow-Tie.jpg",
+    opts: { 
+      gen: ["G1"], 
+      type: ["br"] }
+  },
+  {
+    name: "G1 Bubbles",
+    img: "XFDYs2D/Bubbles.jpg",
+    opts: { 
+      gen: ["G1"], 
+      type: ["br"] }
+  },
+  {
+    name: "G1 Seashell",
+    img: "Q93d2tg/Seashell-Earth-Ponies-Year-3-MLP-1.jpg",
+    opts: { 
+      gen: ["G1"], 
+      type: ["br"] }
   }
 ];

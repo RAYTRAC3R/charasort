@@ -19,6 +19,18 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
+    name: "Filter by Race",
+    key: "race",
+    tooltip: "Check this to restrict to certain races.",
+    checked: false,
+    sub: [
+      { name: "Earth Pony", key: "ep" },
+      { name: "Pegasus", key: "pg" },
+      { name: "Unicorn", key: "uc" },
+      { name: "Alicorn", key: "ac" }
+    ]
+  },
+  {
     name: "Filter by Toy Type",
     key: "type",
     tooltip: "Check this to restrict to certain types of toy.",
@@ -32,7 +44,8 @@ dataSet[dataSetVersion].options = [
   {
     name: "Remove Nirvana",
     key: "nirvana",
-    tooltip: "Check this to remove foreign exclusive characters and variants."
+    tooltip: "Check this to remove foreign exclusive characters and variants.",
+    checked: false
   }
 ];
 
@@ -42,6 +55,7 @@ dataSet[dataSetVersion].characterData = [
     img: "C2KG9Bc/My-Pretty-Pony.jpg",
     opts: { 
       gen: ["G0"], 
+      race: ["ep"], 
       type: ["br"] 
     }
   },
@@ -50,6 +64,7 @@ dataSet[dataSetVersion].characterData = [
     img: "VYQgcLs/My-Pretty-Pony-Peachy.jpg",
     opts: {
       gen: ["G0"],
+      race: ["ep"],
       type: ["br"]
     }
   },
@@ -58,6 +73,7 @@ dataSet[dataSetVersion].characterData = [
     img: "rGmCrYh/FF-Blue-Belle.jpg",
     opts: {
       gen: ["G1"],
+      race: ["ep"],
       type: ["br"]
     }
   },
@@ -66,6 +82,7 @@ dataSet[dataSetVersion].characterData = [
     img: "2gXjB2L/FF-Minty.jpg",
     opts: { 
       gen: ["G1"], 
+      race: ["ep"],
       type: ["br"] }
   },
   {
@@ -73,6 +90,7 @@ dataSet[dataSetVersion].characterData = [
     img: "kxcQ2dF/FF-Snuzzle.jpg",
     opts: { 
       gen: ["G1"], 
+      race: ["ep"],
       type: ["br"] }
   },
   {
@@ -80,6 +98,7 @@ dataSet[dataSetVersion].characterData = [
     img: "xJYbKzv/FF-Cotton-Candy.jpg",
     opts: { 
       gen: ["G1"], 
+      race: ["ep"],
       type: ["br"] }
   },
   {
@@ -87,6 +106,7 @@ dataSet[dataSetVersion].characterData = [
     img: "nQM7Ws3/FF-Blossom.jpg",
     opts: { 
       gen: ["G1"], 
+      race: ["ep"],
       type: ["br"] }
   },
   {
@@ -94,6 +114,7 @@ dataSet[dataSetVersion].characterData = [
     img: "RzxZ9BS/Collector-Pose-Applejack.jpg",
     opts: { 
       gen: ["G1"], 
+      race: ["ep"],
       type: ["br"] }
   },
   {
@@ -101,6 +122,7 @@ dataSet[dataSetVersion].characterData = [
     img: "gg5hqdL/1200px-Straight-Haired-Bow-Tie.jpg",
     opts: { 
       gen: ["G1"], 
+      race: ["ep"],
       type: ["br"] }
   },
   {
@@ -108,6 +130,7 @@ dataSet[dataSetVersion].characterData = [
     img: "XFDYs2D/Bubbles.jpg",
     opts: { 
       gen: ["G1"], 
+      race: ["ep"],
       type: ["br"] }
   },
   {
@@ -115,6 +138,55 @@ dataSet[dataSetVersion].characterData = [
     img: "Q93d2tg/Seashell-Earth-Ponies-Year-3-MLP-1.jpg",
     opts: { 
       gen: ["G1"], 
+      race: ["ep"],
+      type: ["br"] }
+  },
+  {
+    name: "G1 Firefly",
+    img: "FwN40zr/Firefly-Unicorn-and-Pegasus-Ponies-Year-2-MLP-G1-1.jpg",
+    opts: { 
+      gen: ["G1"], 
+      race: ["pg"],
+      type: ["br"] }
+  },
+  {
+    name: "G1 Medley",
+    img: "kG1wZN5/Medley-Unicorn-and-Pegasus-Ponies-Year-2-MLP-G1-1.jpg",
+    opts: { 
+      gen: ["G1"], 
+      race: ["pg"],
+      type: ["br"] }
+  },
+  {
+    name: "G1 Glory",
+    img: "Xjp6sMt/Glory-Unicorn-and-Pegasus-Ponies-Year-2-MLP-G1-1.jpg",
+    opts: { 
+      gen: ["G1"], 
+      race: ["uc"],
+      type: ["br"] }
+  },
+  {
+    name: "G1 Moondancer",
+    img: "bbb4d6G/Moondancer-Unicorn-and-Pegasus-Ponies-Year-2-MLP-G1-1.jpg",
+    opts: { 
+      gen: ["G1"], 
+      race: ["uc"],
+      type: ["br"] }
+  },
+  {
+    name: "G1 Sunbeam",
+    img: "zb8RpvV/Sunbeam-Unicorn-and-Pegasus-Ponies-Year-2-MLP-G1-1.jpg",
+    opts: { 
+      gen: ["G1"], 
+      race: ["uc"],
+      type: ["br"] }
+  },
+  {
+    name: "G1 Twilight",
+    img: "k1z09rK/Twilight-Unicorn-and-Pegasus-Ponies-Year-2-MLP-G1-1.jpg",
+    opts: { 
+      gen: ["G1"], 
+      race: ["uc"],
       type: ["br"] }
   }
 ];

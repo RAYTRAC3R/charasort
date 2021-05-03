@@ -20,4 +20,4 @@ let dataSetVersion = '';
 /**
  * Image root, will be appended to the start of every image URL.
  */
-const imageRoot = 'http://mylittlewiki.org/w/images/';
+const imageRoot = 'https://mylittlewiki.org/w/images/';

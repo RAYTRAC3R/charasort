@@ -38,10 +38,18 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "G1 Butterscotch",
-    img: "b1h1HSY/FF-Butterscotch.jpg",
+    name: "My Pretty Pony",
+    img: "C2KG9Bc/My-Pretty-Pony.jpg",
+    opts: { 
+      gen: ["G0"], 
+      type: ["br"] 
+    }
+  },
+  {
+    name: "MPP Peachy",
+    img: "VYQgcLs/My-Pretty-Pony-Peachy.jpg",
     opts: {
-      gen: ["G1"],
+      gen: ["G0"],
       type: ["br"]
     }
   },

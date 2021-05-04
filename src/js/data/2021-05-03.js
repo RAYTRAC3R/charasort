@@ -27,7 +27,8 @@ dataSet[dataSetVersion].options = [
       { name: "Earth Pony", key: "ep" },
       { name: "Pegasus", key: "pg" },
       { name: "Unicorn", key: "uc" },
-      { name: "Alicorn", key: "ac" }
+      { name: "Alicorn", key: "ac" },
+      { name: "Sea Pony", key: "sp" }
     ]
   },
   {
@@ -187,6 +188,30 @@ dataSet[dataSetVersion].characterData = [
     opts: { 
       gen: ["G1"], 
       race: ["uc"],
+      type: ["br"] }
+  },
+  {
+    name: "G1 Sealight",
+    img: "6gFjsTQ/Sealight-Sea-Ponies-Year-2-MLP-G1-1.jpg",
+    opts: { 
+      gen: ["G1"], 
+      race: ["sp"],
+      type: ["br"] }
+  },
+  {
+    name: "G1 Seawinkle",
+    img: "R3ncNkn/Sea-Winkle-Sea-Ponies-Year-2-MLP-G1-1.jpg",
+    opts: { 
+      gen: ["G1"], 
+      race: ["sp"],
+      type: ["br"] }
+  },
+  {
+    name: "G1 Wavedancer",
+    img: "JR4zBG3/Wavedancer-Sea-Ponies-Year-2-MLP-G1-1.jpg",
+    opts: { 
+      gen: ["G1"], 
+      race: ["sp"],
       type: ["br"] }
   }
 ];

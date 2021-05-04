@@ -213,5 +213,53 @@ dataSet[dataSetVersion].characterData = [
       gen: ["G1"], 
       race: ["sp"],
       type: ["br"] }
+  },
+  {
+    name: "G4 Applejack",
+    img: "P1TtBgS/Fi-M-applejack.jpg",
+    opts: { 
+      gen: ["G4"], 
+      race: ["ep"],
+      type: ["br"] }
+  },
+  {
+    name: "G4 Fluttershy",
+    img: "0Vnb4HN/900px-Fi-M-fluttershy.jpg",
+    opts: { 
+      gen: ["G4"], 
+      race: ["pg"],
+      type: ["br"] }
+  },
+  {
+    name: "G4 Pinkie Pie",
+    img: "WpY7FYH/900px-Fi-M-pinkiepie.jpg",
+    opts: { 
+      gen: ["G4"], 
+      race: ["ep"],
+      type: ["br"] }
+  },
+  {
+    name: "G4 Rarity",
+    img: "hsYbhkd/900px-Fi-M-rarity.jpg",
+    opts: { 
+      gen: ["G4"], 
+      race: ["uc"],
+      type: ["br"] }
+  },
+  {
+    name: "G4 Rainbow Dash",
+    img: "Yft5mT2/Fi-M-rainbowdash.jpg",
+    opts: { 
+      gen: ["G4"], 
+      race: ["pg"],
+      type: ["br"] }
+  },
+  {
+    name: "G4 Twilight Sparkle (Unicorn)",
+    img: "txy6fDH/Mib-Fi-M-twilightsparkle.jpg",
+    opts: { 
+      gen: ["G4"], 
+      race: ["uc"],
+      type: ["br"] }
   }
 ];

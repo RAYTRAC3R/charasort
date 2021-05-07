@@ -215,6 +215,94 @@ dataSet[dataSetVersion].characterData = [
       type: ["br"] }
   },
   {
+    name: "G2 Berry Bright",
+    img: "Wn3BQCp/Berry-Bright-Secret-Surprise-Friends-1997-MLP-G2-1.jpg",
+    opts: { 
+      gen: ["G2"], 
+      race: ["ep"],
+      type: ["br"] }
+  },
+  {
+    name: "G2 Clever Clover",
+    img: "mJ5ZjN3/Clever-Clover-Secret-Surprise-Friends-1997-MLP-G2-1.jpg",
+    opts: { 
+      gen: ["G2"], 
+      race: ["ep"],
+      type: ["br"] }
+  },
+  {
+    name: "G2 Morning Glory",
+    img: "tMSbMLQ/Morning-Glory-Secret-Surprise-Friends-1997-MLP-G2-1.jpg",
+    opts: { 
+      gen: ["G2"], 
+      race: ["ep"],
+      type: ["br"] }
+  },
+  {
+    name: "G2 Petal Blossom",
+    img: "r2GxhB1/Petal-Blossom-Secret-Surprise-Friends-1997-MLP-G2-1.jpg",
+    opts: { 
+      gen: ["G2"], 
+      race: ["ep"],
+      type: ["br"] }
+  },
+  {
+    name: "G2 Sky Skimmer",
+    img: "3SP2g4q/Sky-Skimmer-Secret-Surprise-Friends-1997-MLP-G2-1.jpg",
+    opts: { 
+      gen: ["G2"], 
+      race: ["ep"],
+      type: ["br"] }
+  },
+  {
+    name: "G3 Kimono",
+    img: "jRzqG0J/Kimono-Glitter-Celebration-2003-MLP-G3-1.jpg",
+    opts: { 
+      gen: ["G3"], 
+      race: ["ep"],
+      type: ["br"] }
+  },
+  {
+    name: "G3 Minty",
+    img: "KDbwnqV/Minty-Glitter-Celebration-2003-MLP-G3-1.jpg",
+    opts: { 
+      gen: ["G3"], 
+      race: ["ep"],
+      type: ["br"] }
+  },
+  {
+    name: "G3 Pinkie Pie",
+    img: "gdpfQ8F/Pinkie-Pie-Wave-1-Glitter-Celebration-2003-MLP-G3-1.jpg",
+    opts: { 
+      gen: ["G3"], 
+      race: ["ep"],
+      type: ["br"] }
+  },
+  {
+    name: "G3 Sparkleworks",
+    img: "tXymQZV/Sparkleworks-Wave-1-Glitter-Celebration-2003-MLP-G3-1.jpg",
+    opts: { 
+      gen: ["G3"], 
+      race: ["ep"],
+      type: ["br"] }
+  },
+  {
+    name: "G3 Daisyjo",
+    img: "qx2HynR/Daisyjo-Glitter-Celebration-2003-MLP-G3-1.jpg",
+    opts: { 
+      gen: ["G3"], 
+      race: ["ep"],
+      type: ["br"] }
+  },
+  {
+    name: "G3 Strawberry Swirl",
+    img: "Q66pcHw/Strawberry-Swirl-Glitter-Celebration-2003-MLP-G3-1.jpg",
+    opts: { 
+      gen: ["G3"], 
+      race: ["ep"],
+      type: ["br"] }
+  },
+  {
     name: "G4 Applejack",
     img: "P1TtBgS/Fi-M-applejack.jpg",
     opts: { 
@@ -260,6 +348,22 @@ dataSet[dataSetVersion].characterData = [
     opts: { 
       gen: ["G4"], 
       race: ["uc"],
+      type: ["br"] }
+  },
+  {
+    name: "G5 Sunny Starscout",
+    img: "FKNFtk4/G5-Sunny.jpg",
+    opts: { 
+      gen: ["G5"], 
+      race: ["ep"],
+      type: ["br"] }
+  },
+  {
+    name: "G5 Pipp Petals",
+    img: "Xzf9rjD/G5-Pipp.jpg",
+    opts: { 
+      gen: ["G5"], 
+      race: ["pg"],
       type: ["br"] }
   }
 ];

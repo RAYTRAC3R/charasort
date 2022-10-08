@@ -576,7 +576,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "G3.5 Sweetie Belle",
-    img: "https://i.ibb.co/5kbLcGM/Sweetie-Belle-Basic-Single-Brushable-2009-MLP-G3-5-1.jpg",
+    img: "5kbLcGM/Sweetie-Belle-Basic-Single-Brushable-2009-MLP-G3-5-1.jpg",
     opts: { 
       gen: ["G3.5"], 
       race: ["uc"],
